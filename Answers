@@ -1,0 +1,38 @@
+1. How long did you spend on the technical test? What would you add to your solution if you had more time? If you didn't spend much time on the technical test then use this as an opportunity to explain what you would add.
+I spent around a 1-1.5 hrs of time on the technical test. If I had more time not to write code but better understand the website i am writing code for I could have done much better.
+I could have written nice test case scenario with TestNG or JUnit framework.
+I could have written a much-customized locator for finding elements.
+I could have written code for finding food item specific or cuisine specific search rather than restaurant specific search   
+ 
+ 
+ 
+ 
+ 
+2.What do you think is the most interesting trend in test automation?
+
+Interesting trend in automation is mobile sensor instrumentation testing like using fingerprints etc and image comparison testing
+
+
+
+3. How would you implement test automation in a legacy application? Have you ever had to do this?
+
+ I never had done testing on legacy framework if i have to create a legacy framework i would  write tests in json format and make the framework read the file and run the test. 
+ Reason using json is simple to maintain.
+ 
+ 
+
+4.How would you improve the customer experience of the JUST EAT website?
+
+Just Eat website was already very good, in order to further improve the customer experience we could try adding different views of the restaurant like list and grid.
+we can also highlight delivery fee in a bold way so customers can understand how much it will cost them.
+also, add how much on an average it will cost to order from a specific restaurant or display average cost of items in $$ on the search list. 
+showing star item of the restaurant on the search list will also help increase customer experience 
+
+
+
+
+
+5.Please describe yourself using JSON.
+
+ JSON is less verbose so it's definitely quicker for humans to write, and probably quicker for us to read. 
+ It is certainly a step in the right direction though, making javascript easier to maintain, share and reuse. 
